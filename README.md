@@ -12,7 +12,7 @@ Estou construindo projetos com foco em desenvolvimento web, automações simples
 - **Ghost Reply:** reconstrução planejada de uma extensão de sugestões de respostas, com banco de dados e integração real com IA. A versão anterior usa respostas simuladas.
 - **Chat com IA no ESP32:** ideia em planejamento, com botão para falar, teclado e áudio. Ainda sem protótipo físico.
 
-**Contato:** [meu perfil no GitHub](https://github.com/fwestarb).
+**Contato:** [abra uma issue no meu repositório de perfil](https://github.com/fwestarb/fwestarb/issues/new) para conversar sobre um projeto.
 
 ---
 
@@ -28,4 +28,4 @@ I am building projects focused on web development, simple AI automations and cha
 - **Ghost Reply:** a browser extension planned for rebuilding with a database and a real AI integration. The previous version uses simulated responses.
 - **ESP32 AI Chat:** a planned idea with push-to-talk, keyboard and audio. No physical prototype yet.
 
-**Contact:** [my GitHub profile](https://github.com/fwestarb).
+**Contact:** [open an issue in my profile repository](https://github.com/fwestarb/fwestarb/issues/new) to discuss a project.
