@@ -8,9 +8,9 @@ Estou construindo projetos com foco em desenvolvimento web, automações simples
 
 **Projetos**
 
-- [Projeto Câmera](https://github.com/fwestarb/projeto-camera): experimentos com desenho por gestos e lembrete de postura usando Python, OpenCV e MediaPipe.
-- **Ghost Reply:** reconstrução planejada de uma extensão de sugestões de respostas, com banco de dados e integração real com IA. A versão anterior usa respostas simuladas.
-- **Chat com IA no ESP32:** ideia em planejamento, com botão para falar, teclado e áudio. Ainda sem protótipo físico.
+- [Projeto Câmera](https://fwestarb.github.io/projeto-camera/): desenho por gestos e lembrete experimental de postura com Python, OpenCV e MediaPipe. [Código](https://github.com/fwestarb/projeto-camera).
+- [GhostReply](https://fwestarb.github.io/ghostreply/): protótipo de extensão para WhatsApp Web com sugestões pela OpenRouter, cadastro e dados no Supabase. Precisa de backend local e revisão humana. [Código](https://github.com/fwestarb/ghostreply).
+- [ESP32 Tera](https://fwestarb.github.io/esp32-tera/): Alpha para TTGO T-Display com entrada por microfone, respostas na tela, configuração pelo celular e voz no Windows. Teclado físico e alto-falante na placa ainda estão pendentes. [Código](https://github.com/fwestarb/esp32-tera).
 
 **Contato:** [abra uma issue no meu repositório de perfil](https://github.com/fwestarb/fwestarb/issues/new) para conversar sobre um projeto.
 
@@ -24,8 +24,8 @@ I am building projects focused on web development, simple AI automations and cha
 
 **Projects**
 
-- [Camera Project](https://github.com/fwestarb/projeto-camera): gesture drawing and posture reminder experiments using Python, OpenCV and MediaPipe.
-- **Ghost Reply:** a browser extension planned for rebuilding with a database and a real AI integration. The previous version uses simulated responses.
-- **ESP32 AI Chat:** a planned idea with push-to-talk, keyboard and audio. No physical prototype yet.
+- [Camera Project](https://fwestarb.github.io/projeto-camera/): gesture drawing and an experimental posture reminder using Python, OpenCV and MediaPipe. [Source](https://github.com/fwestarb/projeto-camera).
+- [GhostReply](https://fwestarb.github.io/ghostreply/): a WhatsApp Web extension prototype using OpenRouter suggestions and Supabase accounts/storage. Requires a local backend and human review. [Source](https://github.com/fwestarb/ghostreply).
+- [ESP32 Tera](https://fwestarb.github.io/esp32-tera/): TTGO T-Display Alpha with microphone input, display replies, phone setup and Windows speech output. Physical keyboard and on-board speaker are still pending. [Source](https://github.com/fwestarb/esp32-tera).
 
 **Contact:** [open an issue in my profile repository](https://github.com/fwestarb/fwestarb/issues/new) to discuss a project.
